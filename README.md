@@ -3,7 +3,7 @@
 
 ### 📌 About Me  
 🎓 MSc in Data Science  
-🔍 Seeking an internship in Data Science  
+🔍 Seeking an **Internship or Job** in Data Science  
 📊 Passionate about Data Visualization and Machine Learning  
 
 ### 🛠️ Skills & Tools  
@@ -13,7 +13,7 @@
 - **Other Tools**: Google Colab, Excel  
 
 ### 📫 Connect with Me  
-- 📧 Email: vy251048@gmail.com  
+- 📧 Email : vy251048@gmail.com  
 - 🔗 LinkedIn : https://www.linkedin.com/in/vikas-yadav-53a068283  
 
 🚀 **Let's connect and collaborate!**  
