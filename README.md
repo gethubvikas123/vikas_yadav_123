@@ -20,4 +20,7 @@ Connect with me:
 LinkedIn Profile :- https://www.linkedin.com/in/vikas-yadav-53a068283 
  
 Languages and Tools:
-mysql pandas python scikit_learn seaborn tensorflow
+- **Programming & Query Languages**: Python, SQL  
+- **Data Analysis & Visualization**: Power BI, Pandas, Seaborn, Matplotlib  
+- **Machine Learning**: Scikit-Learn, TensorFlow  
+- **Other Tools**: Excel, Google Colab
