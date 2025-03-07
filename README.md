@@ -1,26 +1,19 @@
-# vikas_yadav_123
-
 # Hi 👋, I'm Vikas Yadav  
 ## Data Science and AI Enthusiast  
 
-### My Profile  
-👨‍🎓 I’m currently pursuing MSc in Data Science  
+### 📌 About Me  
+🎓 MSc in Data Science  
+🔍 Seeking an internship in Data Science  
+📊 Passionate about Data Visualization and Machine Learning  
 
-🔭 I’m currently seeking an internship in Data Science  
-
-🌱 I’m currently learning advanced Machine Learning and Power BI  
-
-💬 Ask me about Python, SQL, Power BI, Machine Learning, Data Visualization  
-
-📫 How to reach me: E-mail :-   vy251048@gmail.com
-
-                     Mobile No :- +91 8097428781
-
-Connect with me:  
-LinkedIn Profile :- https://www.linkedin.com/in/vikas-yadav-53a068283 
- 
-Languages and Tools:
-- **Programming & Query Languages**: Python, SQL  
-- **Data Analysis & Visualization**: Power BI, Pandas, Seaborn, Matplotlib  
+### 🛠️ Skills & Tools  
+- **Programming**: Python, SQL  
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
 - **Machine Learning**: Scikit-Learn, TensorFlow  
-- **Other Tools**: Excel, Google Colab
+- **Other Tools**: Google Colab, Excel  
+
+### 📫 Connect with Me  
+- 📧 Email: vy251048@gmail.com  
+- 🔗 LinkedIn : https://www.linkedin.com/in/vikas-yadav-53a068283  
+
+🚀 **Let's connect and collaborate!**  
